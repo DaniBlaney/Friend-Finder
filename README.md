@@ -10,7 +10,7 @@ To install the application follow the instructions below:
 
 ```
 git clone https://github.com/DaniBlaney/Friend-Finder.git
-cd friend-finder
+cd Friend-Finder
 npm install
 ```
 ##
