@@ -7,8 +7,10 @@ Friend Finder application is meant to simulate a simple dating app, except now f
 
 ## Installation
 To install the application follow the instructions below:
+
+```
 git clone https://github.com/DaniBlaney/Friend-Finder.git
 cd friend-finder
 npm install
-
+```
 ##
