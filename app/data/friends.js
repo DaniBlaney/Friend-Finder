@@ -2,12 +2,12 @@ var friends = [
 	{
 		name: "Buddy",
 		photo: "https://cdn.newsapi.com.au/image/v1/67a523605bca40778c6faaad93883a3b",
-		scores: [5, 1, 2, 5, 1, 2, 5, 1, 1, 1]
+		scores: [5, 3, 4, 5, 5, 5, 5, 5, 5, 5]
 	},
 	{
 		name: "Mr. Fuzzy Pants",
 		photo: "https://www.aspca.org/sites/default/files/pet-planning_pet-trust-primer_main-image.jpg",
-		scores: [2, 5, 4, 1, 4, 3, 3, 2, 3, 3]
+		scores: [2, 5, 4, 1, 5, 1, 1, 1, 1, 5]
 	},
 	{
 		name: "Champ",
