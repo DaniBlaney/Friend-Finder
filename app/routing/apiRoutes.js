@@ -40,6 +40,7 @@ module.exports = function(app) {
     friends.push(user);
 
     // send back to friend match
-    res.json(friends[bestFriendIndex]);
+    res.json(friends[bestMatch]);
+   
   });
 };
