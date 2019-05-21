@@ -16,3 +16,5 @@ cd Friend-Finder
 npm install
 ```
 ##
+
+![Friend Finder Home Page][/app/public/friendfinder]
