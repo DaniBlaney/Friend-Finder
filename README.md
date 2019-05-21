@@ -17,4 +17,4 @@ npm install
 ```
 ##
 
-![Friend Finder Home Page][/app/public/friendfinder]
+![Friend Finder Home Page][friendfinder.png]
