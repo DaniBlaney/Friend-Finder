@@ -5,6 +5,8 @@ Friend Finder implements "friend" matching based on the user's responses to a te
 
 Friend Finder application is meant to simulate a simple dating app, except now finding you the perfect pet. The application is implemented using a Node.js and Express server on the back end.
 
+Demo the app here https://pet-friendfinder.herokuapp.com/
+
 ## Installation
 To install the application follow the instructions below:
 
@@ -13,4 +15,13 @@ git clone https://github.com/DaniBlaney/Friend-Finder.git
 cd Friend-Finder
 npm install
 ```
-##
+
+### Friend Finder Home Page
+<kbd>
+  <img src="friendfinder.png">
+</kbd>
+
+### Survey Page
+<kbd>
+  <img src="friendsurvey.png">
+</kbd>
