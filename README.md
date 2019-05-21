@@ -17,4 +17,7 @@ npm install
 ```
 ##
 
-![Friend Finder Home Page][friendfinder.png]
+![Friend Finder Home Page][]
+<kbd>
+  <img src="friendfinder.png">
+</kbd>
