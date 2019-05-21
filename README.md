@@ -15,7 +15,6 @@ git clone https://github.com/DaniBlaney/Friend-Finder.git
 cd Friend-Finder
 npm install
 ```
-##
 
 ###Friend Finder Home Page
 <kbd>
